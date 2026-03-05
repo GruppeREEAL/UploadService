@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="uploadservice.test/uploadservice.test.csproj" />
+  <Project Path="uploadservice/uploadservice.csproj" />
+</Solution>
