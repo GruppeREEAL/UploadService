@@ -1,6 +1,5 @@
 @UploadService_HostAddress = http://localhost:5142
 
-GET {{UploadService_HostAddress}}/weatherforecast/
-Accept: application/json
+
 
 ###
